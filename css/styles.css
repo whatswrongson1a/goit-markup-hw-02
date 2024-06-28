@@ -22,9 +22,9 @@ ul {
     list-style-type: none;             
 }
 
-ul li a {
+ul a {
     font-weight: 500;
-    color: #2e2f42;
+    color: #434455;
     font-size: 16px;
     text-decoration: none;
     line-height: 1.5;
@@ -41,7 +41,7 @@ ul li a:focus {
 }
 
 
-address {
+.adrs {
     font-weight: 400;
     color: #434455;
     font-size: 16px;
@@ -51,11 +51,11 @@ address {
     letter-spacing: 0.02em;
 }
 
-address:hover {
+.adrs:hover {
     color: #404bbf;
 }
 
-address:focus {
+.adrs:focus {
     color: #404bbf;
 }
 
