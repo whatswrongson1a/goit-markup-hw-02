@@ -22,7 +22,7 @@ ul {
     list-style-type: none;             
 }
 
-ul a {
+ul li a {
     font-weight: 500;
     color: #434455;
     font-size: 16px;
@@ -62,10 +62,9 @@ ul li a:focus {
 .hero {
     color: #FFFFFF;
     background-color: #2E2F42;
-    font-size: 56px;
 }
 
-.hero h2 {
+.herotext {
     text-align: center;
     color: #FFFFFF;
     font-size: 56px;
