@@ -89,7 +89,6 @@ body {
 }
 
 .features-title {
-    text-align: center;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
@@ -173,6 +172,10 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #f4f4fd;
+}
+
+footer {
+    background-color: #2e2f42;
 }
 
 .footer-paragraf {
