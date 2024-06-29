@@ -16,13 +16,20 @@ body {
 
 .lgtp_spn {
     color:#2e2f42;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 
-ul {
-    list-style-type: none;             
+.address {
+    font-style: normal;
+    list-style-type: none;
 }
 
-ul li a {
+.nav-list li a {
     font-weight: 500;
     color: #434455;
     font-size: 16px;
@@ -32,16 +39,12 @@ ul li a {
     cursor: pointer;
 }
 
-ul li a:hover {
+.header-list:hover,
+.header-list:focus {
     color: #404bbf
 }
 
-ul li a:focus {
-    color: #404bbf
-}
-
-
-.adrs {
+.address ul li a {
     font-weight: 400;
     color: #434455;
     font-size: 16px;
@@ -51,11 +54,8 @@ ul li a:focus {
     letter-spacing: 0.02em;
 }
 
-.adrs:hover {
-    color: #404bbf;
-}
-
-.adrs:focus {
+.address:hover,
+.address:focus {
     color: #404bbf;
 }
 
@@ -64,7 +64,7 @@ ul li a:focus {
     background-color: #2E2F42;
 }
 
-.herotext {
+.hero-text {
     text-align: center;
     color: #FFFFFF;
     font-size: 56px;
