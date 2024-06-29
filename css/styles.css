@@ -30,7 +30,7 @@ body {
 
 .header-list {
     font-weight: 500;
-    color: #434455;
+    color: #2e2f42;
     font-size: 16px;
     text-decoration: none;
     line-height: 1.5;
@@ -45,12 +45,12 @@ body {
 
 .address-list {
     font-weight: 400;
-    color: #2e2f42;
     font-size: 16px;
     text-decoration: none;
     font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #434455;
 }
 
 .address-list:hover,
@@ -126,13 +126,6 @@ body {
     color: #2e2f42;
 }
 
-.team-paragraf {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
 .portfolio h2 {
     font-size: 36px;
     line-height: 1.11;
@@ -182,7 +175,7 @@ body {
     color: #f4f4fd;
 }
 
-.footer p {
+.footer-paragraf {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #F4F4FD;
