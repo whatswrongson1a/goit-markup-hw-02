@@ -4,6 +4,14 @@ body {
     color: #434455;
 }
 
+ul {
+    list-style-type: none;
+}
+
+p {
+    text-align: left;
+}
+
 .lgtp {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -125,7 +133,7 @@ body {
     color: #2e2f42;
 }
 
-.portfolio h2 {
+.portfolio-header {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
