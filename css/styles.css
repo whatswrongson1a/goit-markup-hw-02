@@ -1,5 +1,5 @@
 body {
-    font-family: "Roboto",sans-serif;
+    font-family: "Roboto", sans-serif;
     background-color: #FFFFFF;
     color: #434455;
 }
@@ -11,6 +11,24 @@ ul {
 p {
     text-align: left;
 }
+
+.header-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.item_logo {
+
+}
+
+.item_hl {
+
+}
+
+.item_cl {
+
+}
+
 
 .lgtp {
     font-family: "Raleway", sans-serif;
