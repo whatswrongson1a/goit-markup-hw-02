@@ -9,15 +9,6 @@ ul {
     list-style-type: none;
 }
 
-p {
-    text-align: left;
-}
-
-.header-container {
-    display: flex;
-    justify-content: space-around;
-}
-
 .item_logo {
 
 }
